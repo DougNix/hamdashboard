@@ -1,6 +1,6 @@
 const disableSetup = false;
 const disableLdCfg = false;
-var topBarCenterText = `VA3HDL - FN04ga - .js`;
+var topBarCenterText = `VE3ZDN - EN93tj - .js`;
 
 // Grid layout
 var layout_cols = 4;
@@ -83,11 +83,11 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://www.lightningmaps.org/blitzortung/america/index.php?bo_page=archive&lang=en&bo_map=north_middle_america&bo_animation=now",
   ],
   [
     "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "https://www.blitzortung.org/en/?map=30",
   ],
   ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
   [
